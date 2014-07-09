@@ -1,5 +1,5 @@
-# Documentation version 1
+﻿# Documentation version 1
 # -----------------------
 # Création du sou-répertoire en le tapant directement /docs/ ET le nom du fichier.
 
-Texte...
+Le Texte...
